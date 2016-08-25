@@ -1,0 +1,22 @@
+{
+  "name": "feathers-mongodb-service-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "feathers": "^2.0.1",
+    "feathers-errors": "^2.4.0",
+    "feathers-mongodb": "^2.4.2",
+    "feathers-rest": "^1.4.4",
+    "feathers-socketio": "^1.4.1",
+    "mongodb": "^2.2.8"
+  }
+}
