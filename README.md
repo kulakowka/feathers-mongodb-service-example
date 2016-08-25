@@ -9,3 +9,5 @@ npm install
 
 npm start
 ```
+
+[![Run in Postman](https://run.pstmn.io/button.png)](https://www.getpostman.com/run-collection/39470d10b78a47070620)
