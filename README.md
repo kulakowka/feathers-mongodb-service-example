@@ -1,3 +1,5 @@
+Starter-kit for building REST microservice based on [Feather.js](http://feathersjs.com) and [MongoDb](https://www.mongodb.com).
+
 ### Quick start
 
 ```
